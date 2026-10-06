@@ -1,0 +1,584 @@
+{
+  "answerable": {
+    "total": 20,
+    "correct": 20,
+    "details": [
+      {
+        "question": "What is the definition of an AI system under the EU AI Act?",
+        "correct": true,
+        "semantic_score": 0.9048482775688171
+      },
+      {
+        "question": "What biometric practices are prohibited?",
+        "correct": true,
+        "semantic_score": 0.8960886001586914
+      },
+      {
+        "question": "What is the penalty for non-compliance by operators or notified bodies?",
+        "correct": true,
+        "semantic_score": 0.8870185613632202
+      },
+      {
+        "question": "What does the AI Act say about AI in employment and recruitment?",
+        "correct": true,
+        "semantic_score": 0.8407007455825806
+      },
+      {
+        "question": "What is the role of conformity assessment?",
+        "correct": true,
+        "semantic_score": 0.8634167909622192
+      },
+      {
+        "question": "What are the transparency obligations for AI systems that interact with people?",
+        "correct": true,
+        "semantic_score": 0.8318381309509277
+      },
+      {
+        "question": "What is the purpose of the EU database for high-risk AI systems?",
+        "correct": true,
+        "semantic_score": 0.832507848739624
+      },
+      {
+        "question": "How does the AI Act address deep fakes?",
+        "correct": true,
+        "semantic_score": 0.8954100608825684
+      },
+      {
+        "question": "What are the rules on AI in critical infrastructure?",
+        "correct": true,
+        "semantic_score": 0.8646496534347534
+      },
+      {
+        "question": "What is the scope of the AI Act regarding research and development?",
+        "correct": true,
+        "semantic_score": 0.7869173288345337
+      },
+      {
+        "question": "What obligations do importers of AI systems have?",
+        "correct": true,
+        "semantic_score": 0.7971500754356384
+      },
+      {
+        "question": "What is the role of national competent authorities?",
+        "correct": true,
+        "semantic_score": 0.8804642558097839
+      },
+      {
+        "question": "What does the AI Act say about AI literacy?",
+        "correct": true,
+        "semantic_score": 0.7910507917404175
+      },
+      {
+        "question": "What are the data governance requirements for high-risk AI?",
+        "correct": true,
+        "semantic_score": 0.8473649621009827
+      },
+      {
+        "question": "What is the role of the European Artificial Intelligence Board?",
+        "correct": true,
+        "semantic_score": 0.7705304622650146
+      },
+      {
+        "question": "What are the rules on AI in migration and border control?",
+        "correct": true,
+        "semantic_score": 0.8812280297279358
+      },
+      {
+        "question": "What does the AI Act say about open-source AI models?",
+        "correct": true,
+        "semantic_score": 0.8047754764556885
+      },
+      {
+        "question": "What human oversight requirements exist for high-risk AI?",
+        "correct": true,
+        "semantic_score": 0.8573316335678101
+      },
+      {
+        "question": "What are the record-keeping requirements for high-risk AI systems?",
+        "correct": true,
+        "semantic_score": 0.825568675994873
+      },
+      {
+        "question": "What does the AI Act say about AI used in the administration of justice?",
+        "correct": true,
+        "semantic_score": 0.8015148639678955
+      }
+    ]
+  },
+  "refusal": {
+    "total": 20,
+    "correct": 19,
+    "details": [
+      {
+        "question": "How many AI systems have been banned in the EU since the Act took effect?",
+        "refused": true
+      },
+      {
+        "question": "What is the total cost of implementing the AI Act across all member states?",
+        "refused": true
+      },
+      {
+        "question": "Which AI company was the first to receive CE marking under the AI Act?",
+        "refused": true
+      },
+      {
+        "question": "How many people work in AI governance roles across the EU?",
+        "refused": true
+      },
+      {
+        "question": "What is the EU's total investment in AI startups?",
+        "refused": true
+      },
+      {
+        "question": "How does the AI Act compare to Australia's AI Ethics Principles?",
+        "refused": true
+      },
+      {
+        "question": "What are the differences between the AI Act and Israel's AI regulation?",
+        "refused": true
+      },
+      {
+        "question": "How does the AI Act's approach differ from South Korea's AI Basic Act?",
+        "refused": true
+      },
+      {
+        "question": "What are the similarities between the AI Act and Singapore's PDPA?",
+        "refused": false
+      },
+      {
+        "question": "How does the AI Act compare to the IEEE standards for AI ethics?",
+        "refused": true
+      },
+      {
+        "question": "What percentage of EU companies have completed AI Act compliance?",
+        "refused": true
+      },
+      {
+        "question": "How many AI regulatory sandboxes have produced commercial products?",
+        "refused": true
+      },
+      {
+        "question": "What is Anthropic's compliance strategy for the AI Act?",
+        "refused": true
+      },
+      {
+        "question": "How has the AI Act affected venture capital investment in EU AI?",
+        "refused": true
+      },
+      {
+        "question": "What did the OECD say about the EU AI Act's effectiveness?",
+        "refused": true
+      },
+      {
+        "question": "How does the AI Act interact with the EU Cyber Resilience Act in practice?",
+        "refused": true
+      },
+      {
+        "question": "What is the average time to complete a conformity assessment?",
+        "refused": true
+      },
+      {
+        "question": "How many complaints have been filed under the AI Act?",
+        "refused": true
+      },
+      {
+        "question": "What is Apple's position on the AI Act's requirements for Siri?",
+        "refused": true
+      },
+      {
+        "question": "How does the AI Act compare to Japan's Social Principles of Human-Centric AI?",
+        "refused": true
+      }
+    ]
+  },
+  "false_refusal": {
+    "total": 20,
+    "refused": 0,
+    "details": [
+      {
+        "question": "What does the AI Act say about social scoring?",
+        "refused": false
+      },
+      {
+        "question": "Are there rules about AI in education under the AI Act?",
+        "refused": false
+      },
+      {
+        "question": "What is a general-purpose AI model?",
+        "refused": false
+      },
+      {
+        "question": "What are the prohibited AI practices listed in the AI Act?",
+        "refused": false
+      },
+      {
+        "question": "What does the AI Act say about biometric identification?",
+        "refused": false
+      },
+      {
+        "question": "What is the conformity assessment process for high-risk AI?",
+        "refused": false
+      },
+      {
+        "question": "What are the obligations of AI system providers?",
+        "refused": false
+      },
+      {
+        "question": "What does the AI Act say about AI regulatory sandboxes?",
+        "refused": false
+      },
+      {
+        "question": "How does the AI Act define high-risk AI systems?",
+        "refused": false
+      },
+      {
+        "question": "What transparency requirements apply to AI systems?",
+        "refused": false
+      },
+      {
+        "question": "What are the rules on AI in law enforcement?",
+        "refused": false
+      },
+      {
+        "question": "What does the AI Act say about data quality for AI training?",
+        "refused": false
+      },
+      {
+        "question": "What is the role of market surveillance authorities?",
+        "refused": false
+      },
+      {
+        "question": "What are the penalties for non-compliance with the AI Act?",
+        "refused": false
+      },
+      {
+        "question": "What does the AI Act say about AI and fundamental rights?",
+        "refused": false
+      },
+      {
+        "question": "What are the requirements for technical documentation of AI systems?",
+        "refused": false
+      },
+      {
+        "question": "What does the AI Act say about post-market monitoring?",
+        "refused": false
+      },
+      {
+        "question": "How does the AI Act address AI systems in healthcare?",
+        "refused": false
+      },
+      {
+        "question": "What are the rules on AI in credit scoring?",
+        "refused": false
+      },
+      {
+        "question": "What does the AI Act say about codes of practice?",
+        "refused": false
+      }
+    ]
+  },
+  "parametric_leakage": {
+    "total": 10,
+    "leaked": 0,
+    "details": [
+      {
+        "question": "What is Claude by Anthropic and is it regulated under the AI Act?",
+        "leaked": false
+      },
+      {
+        "question": "How did Sam Altman respond to the AI Act?",
+        "leaked": false
+      },
+      {
+        "question": "What is the carbon footprint of training GPT-4?",
+        "leaked": false
+      },
+      {
+        "question": "How many users does ChatGPT have in the EU?",
+        "leaked": false
+      },
+      {
+        "question": "What is Mistral AI's valuation and market position?",
+        "leaked": false
+      },
+      {
+        "question": "What did Elon Musk say about AI regulation in Europe?",
+        "leaked": false
+      },
+      {
+        "question": "How much did Google spend on AI safety research in 2024?",
+        "leaked": false
+      },
+      {
+        "question": "What is the accuracy of facial recognition systems like Clearview AI?",
+        "leaked": false
+      },
+      {
+        "question": "How many parameters does Meta's Llama 3 have?",
+        "leaked": false
+      },
+      {
+        "question": "What is the EU's ranking in global AI competitiveness indices?",
+        "leaked": false
+      }
+    ]
+  },
+  "retrieval": {
+    "total": 20,
+    "hit": 19,
+    "details": [
+      {
+        "question": "What is the definition of a deployer?",
+        "hit": true
+      },
+      {
+        "question": "What are the prohibited AI practices?",
+        "hit": true
+      },
+      {
+        "question": "What is a high-risk AI system?",
+        "hit": true
+      },
+      {
+        "question": "What are AI regulatory sandboxes?",
+        "hit": true
+      },
+      {
+        "question": "What are the rules on biometric identification?",
+        "hit": true
+      },
+      {
+        "question": "What is the role of the AI Office?",
+        "hit": true
+      },
+      {
+        "question": "What are the transparency requirements?",
+        "hit": true
+      },
+      {
+        "question": "What are general-purpose AI models?",
+        "hit": true
+      },
+      {
+        "question": "What does the AI Act say about emotion recognition?",
+        "hit": true
+      },
+      {
+        "question": "What is the conformity assessment process?",
+        "hit": true
+      },
+      {
+        "question": "What are the data governance requirements?",
+        "hit": true
+      },
+      {
+        "question": "What is the role of notified bodies?",
+        "hit": true
+      },
+      {
+        "question": "What does the AI Act say about social scoring?",
+        "hit": true
+      },
+      {
+        "question": "What are the rules on AI in employment?",
+        "hit": false
+      },
+      {
+        "question": "What does the AI Act say about deep fakes?",
+        "hit": true
+      },
+      {
+        "question": "What is the EU database for AI systems?",
+        "hit": true
+      },
+      {
+        "question": "What are the human oversight requirements?",
+        "hit": true
+      },
+      {
+        "question": "What does the AI Act say about cybersecurity?",
+        "hit": true
+      },
+      {
+        "question": "What are the rules on AI in migration?",
+        "hit": true
+      },
+      {
+        "question": "What does the AI Act say about AI literacy?",
+        "hit": true
+      }
+    ]
+  },
+  "precision": {
+    "total": 20,
+    "sum_precision": 8.999999999999998,
+    "details": [
+      {
+        "question": "What is the definition of a deployer?",
+        "precision": 0.3333333333333333
+      },
+      {
+        "question": "What are the prohibited AI practices?",
+        "precision": 0.3333333333333333
+      },
+      {
+        "question": "What is a high-risk AI system?",
+        "precision": 0.0
+      },
+      {
+        "question": "What are AI regulatory sandboxes?",
+        "precision": 0.3333333333333333
+      },
+      {
+        "question": "What are the rules on biometric identification?",
+        "precision": 0.6666666666666666
+      },
+      {
+        "question": "What is the role of the AI Office?",
+        "precision": 0.3333333333333333
+      },
+      {
+        "question": "What are the transparency requirements?",
+        "precision": 0.3333333333333333
+      },
+      {
+        "question": "What are general-purpose AI models?",
+        "precision": 0.6666666666666666
+      },
+      {
+        "question": "What does the AI Act say about emotion recognition?",
+        "precision": 0.0
+      },
+      {
+        "question": "What is the conformity assessment process?",
+        "precision": 0.6666666666666666
+      },
+      {
+        "question": "What are the data governance requirements?",
+        "precision": 0.6666666666666666
+      },
+      {
+        "question": "What is the role of notified bodies?",
+        "precision": 0.3333333333333333
+      },
+      {
+        "question": "What does the AI Act say about social scoring?",
+        "precision": 0.3333333333333333
+      },
+      {
+        "question": "What are the rules on AI in employment?",
+        "precision": 0.0
+      },
+      {
+        "question": "What does the AI Act say about deep fakes?",
+        "precision": 1.0
+      },
+      {
+        "question": "What is the EU database for AI systems?",
+        "precision": 1.0
+      },
+      {
+        "question": "What are the human oversight requirements?",
+        "precision": 0.3333333333333333
+      },
+      {
+        "question": "What does the AI Act say about cybersecurity?",
+        "precision": 0.3333333333333333
+      },
+      {
+        "question": "What are the rules on AI in migration?",
+        "precision": 0.6666666666666666
+      },
+      {
+        "question": "What does the AI Act say about AI literacy?",
+        "precision": 0.6666666666666666
+      }
+    ]
+  },
+  "recall": {
+    "total": 20,
+    "sum_recall": 3.6338779778141483,
+    "details": [
+      {
+        "question": "What is the definition of a deployer?",
+        "recall": 0.1111111111111111
+      },
+      {
+        "question": "What are the prohibited AI practices?",
+        "recall": 0.08333333333333333
+      },
+      {
+        "question": "What is a high-risk AI system?",
+        "recall": 0.0
+      },
+      {
+        "question": "What are AI regulatory sandboxes?",
+        "recall": 0.2
+      },
+      {
+        "question": "What are the rules on biometric identification?",
+        "recall": 0.07692307692307693
+      },
+      {
+        "question": "What is the role of the AI Office?",
+        "recall": 0.05
+      },
+      {
+        "question": "What are the transparency requirements?",
+        "recall": 0.07692307692307693
+      },
+      {
+        "question": "What are general-purpose AI models?",
+        "recall": 0.0425531914893617
+      },
+      {
+        "question": "What does the AI Act say about emotion recognition?",
+        "recall": 0.0
+      },
+      {
+        "question": "What is the conformity assessment process?",
+        "recall": 0.044444444444444446
+      },
+      {
+        "question": "What are the data governance requirements?",
+        "recall": 0.4
+      },
+      {
+        "question": "What is the role of notified bodies?",
+        "recall": 0.125
+      },
+      {
+        "question": "What does the AI Act say about social scoring?",
+        "recall": 1.0
+      },
+      {
+        "question": "What are the rules on AI in employment?",
+        "recall": 0.0
+      },
+      {
+        "question": "What does the AI Act say about deep fakes?",
+        "recall": 0.6
+      },
+      {
+        "question": "What is the EU database for AI systems?",
+        "recall": 0.16666666666666666
+      },
+      {
+        "question": "What are the human oversight requirements?",
+        "recall": 0.16666666666666666
+      },
+      {
+        "question": "What does the AI Act say about cybersecurity?",
+        "recall": 0.07692307692307693
+      },
+      {
+        "question": "What are the rules on AI in migration?",
+        "recall": 0.08
+      },
+      {
+        "question": "What does the AI Act say about AI literacy?",
+        "recall": 0.3333333333333333
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+eupolicy_rag_llama_model/
+eupolicy_rag_llama_model_swe/
+rag_index/
+rag_index_swe/
+__pycache__/
+*.safetensors
+simulation.html
+simulation_frames.json
+simulation_video.mp4
+simulation_log.md
+und_state.json
+.gradio/
+adapter_backup_before_retrain/
+train_run.log
+training_log_rag_llama_swe.txt
+webui.log

@@ -1,0 +1,271 @@
+{
+  "temperature": 0.0,
+  "refusal": {
+    "total": 20,
+    "correct": 20,
+    "details": [
+      {
+        "question": "Hur många stridsfordon har Sverige levererat till Ukraina sedan 2022?",
+        "refused": true,
+        "response": "❌ Kan inte besvaras utifrån tillgängligt scenario och doktrinära källor."
+      },
+      {
+        "question": "Vad kostar JAS Gripen E per styck i 2024 års priser?",
+        "refused": true,
+        "response": "❌ Kan inte besvaras utifrån tillgängligt scenario och doktrinära källor."
+      },
+      {
+        "question": "Vilka förband deltog i den senaste Aurora-övningen?",
+        "refused": true,
+        "response": "❌ Kan inte besvaras utifrån tillgängligt scenario och doktrinära källor."
+      },
+      {
+        "question": "Hur många värnpliktiga rycker in per år i Sverige?",
+        "refused": true,
+        "response": "## Svar: Antal värnpliktiga som rycker in per år i Sverige\n\n---\n\n### A) FAKTA FRÅN KONTEXT\n\nDen tillhandahållna kontexten ([Källa 1]) behandlar **Utgångspunkter för totalförsvaret 2025–2030** och innehåller information om:\n\n- Sveriges totalförsvarsplanering och -utveckling [Källa 1]\n- Hotbildsbeskrivning och säkerhetsläge [Källa 1]\n- Civila och militära aktörers roller [Källa 1]\n\n**Ingen information** om antal värnpliktiga som rycker in per år återfinns i den tillhandahållna kontexten.\n\n---\n\n###"
+      },
+      {
+        "question": "Vad är Försvarsmaktens totala budget för 2025?",
+        "refused": true,
+        "response": "❌ Kan inte besvaras utifrån tillgängligt scenario och doktrinära källor."
+      },
+      {
+        "question": "Hur jämför sig svensk artillerieldkraft med Finlands?",
+        "refused": true,
+        "response": "❌ Kan inte besvaras utifrån tillgängligt scenario och doktrinära källor."
+      },
+      {
+        "question": "Vilka skillnader finns mellan svensk och norsk brigadstruktur?",
+        "refused": true,
+        "response": "❌ Kan inte besvaras utifrån tillgängligt scenario och doktrinära källor."
+      },
+      {
+        "question": "Hur skiljer sig svensk CBRN-förmåga från Frankrikes?",
+        "refused": true,
+        "response": "## Svar: Jämförelse svensk vs fransk CBRN-förmåga\n\n---\n\n### A) FAKTA FRÅN KONTEXT\n\nDen tillhandahållna kontexten innehåller **endast en referens till CBRN**:\n\n- Det finns en allierad doktrin för CBRN-försvar: **AJP-3.8 Allied Joint Doctrine for CBRN Defence** [Källa 1]\n\nDetta är en **NATO-gemensam doktrin** som utgör ett ramverk för allierade nationers CBRN-förmågor, men dokumentet i sig innehåller **inga nationella jämförelser** mellan Sverige och Frankrike.\n\n---\n\n### B) LUCKOR I UNDERLAG\n\nFölj"
+      },
+      {
+        "question": "Vilka likheter finns mellan svensk och brittisk marininfanteridoktrin?",
+        "refused": true,
+        "response": "❌ Kan inte besvaras utifrån tillgängligt scenario och doktrinära källor."
+      },
+      {
+        "question": "Hur jämför sig svenska luftvärnssystem med det amerikanska Patriot-systemet?",
+        "refused": true,
+        "response": "❌ Kan inte besvaras utifrån tillgängligt scenario och doktrinära källor."
+      },
+      {
+        "question": "Hur många Archer-artillerisystem är operativa i dag?",
+        "refused": true,
+        "response": "❌ Kan inte besvaras utifrån tillgängligt scenario och doktrinära källor."
+      },
+      {
+        "question": "Vilken leverantör vann senaste upphandlingen av drönarsystem?",
+        "refused": true,
+        "response": "❌ Kan inte besvaras utifrån tillgängligt scenario och doktrinära källor."
+      },
+      {
+        "question": "Vad är Saabs strategi för nästa generations luftvärnssystem?",
+        "refused": true,
+        "response": "## Svar: Saabs strategi för nästa generations luftvärnssystem\n\n---\n\n### A) FAKTA FRÅN KONTEXT\n\nDen tillhandahållna kontexten innehåller **ingen information** om Saabs strategi för nästa generations luftvärnssystem.\n\nDen enda referens till luftvärn i kontexten är följande:\n\n- Att **medelräckviddigt luftvärn** används för att skydda salvpjäser vid bekämpning av motståndarens långräckviddiga bekämpningssystem [Källa 1].\n\nDetta är en **taktisk referens** till luftvärnets användning i divisionsoperat"
+      },
+      {
+        "question": "Hur har Rysslands invasion av Ukraina påverkat svensk militär rekrytering?",
+        "refused": true,
+        "response": "## Svar: Rysslands invasion av Ukrainas påverkan på svensk militär rekrytering\n\n---\n\n### A) FAKTA FRÅN KONTEXT\n\nDen tillhandahållna kontexten innehåller **ingen information** om Rysslands invasion av Ukraina eller dess påverkan på svensk militär rekrytering.\n\nDen enda tillgängliga källan [Källa 1] behandlar:\n- Mål för totalförsvaret enligt **1992 års försvarsbeslut** [Källa 1]\n- Allmänna principer om totalförsvarets fredsbevarande funktion [Källa 1]\n- Svensk neutralitetspolitik och försvarsdoktr"
+      },
+      {
+        "question": "Vad sa ÖB om Gotlands försvarsförmåga 2024?",
+        "refused": true,
+        "response": "## Svar på frågan om ÖB:s uttalanden om Gotlands försvarsförmåga 2024\n\n---\n\n### A) FAKTA FRÅN KONTEXT\n\nDen tillhandahållna kontexten innehåller **inga uppgifter** om ÖB:s uttalanden rörande Gotlands försvarsförmåga år 2024.\n\nDen enda källan i underlaget ([Källa 1, relevans: 0.50]) behandlar uteslutande:\n- Försvarsmaktens cyberförsvar\n- Offensiva och defensiva cyberoperationer\n- Cybersäkerhetsstrategi\n\nIngen av dessa uppgifter berör Gotland eller ÖB:s uttalanden.\n\n---\n\n### B) LUCKOR I UNDERLAG\n\nF"
+      },
+      {
+        "question": "Hur samverkar svensk underrättelsetjänst med CIA i praktiken?",
+        "refused": true,
+        "response": "❌ Kan inte besvaras utifrån tillgängligt scenario och doktrinära källor."
+      },
+      {
+        "question": "Vad är den genomsnittliga leveranstiden för beställd försvarsmateriel?",
+        "refused": true,
+        "response": "## Svar: Genomsnittlig leveranstid för beställd försvarsmateriel\n\n---\n\n### A) FAKTA FRÅN KONTEXT\n\nDen tillhandahållna kontexten innehåller **inga uppgifter** om genomsnittlig leveranstid för beställd försvarsmateriel.\n\nKontexten utgörs av:\n- En innehållsförteckning från en faktabok (version 1.1) [Källa 1]\n- Begreppsmodeller för bl.a. upphandling och inköp, transporttjänst samt försäljning och uthyrning [Källa 1, s. 76–83]\n\nInga konkreta tidsangivelser, leveransdata eller statistik förekommer i d"
+      },
+      {
+        "question": "Hur många helikoptrar har havererat under övningar senaste tio åren?",
+        "refused": true,
+        "response": "❌ Kan inte besvaras utifrån tillgängligt scenario och doktrinära källor."
+      },
+      {
+        "question": "Vad är BAE Systems ståndpunkt om svensk stridsfordonsutveckling?",
+        "refused": true,
+        "response": "❌ Kan inte besvaras utifrån tillgängligt scenario och doktrinära källor."
+      },
+      {
+        "question": "Hur jämför sig Sveriges försvarsutgifter med Polens som andel av BNP?",
+        "refused": true,
+        "response": "❌ Kan inte besvaras utifrån tillgängligt scenario och doktrinära källor."
+      }
+    ]
+  },
+  "false_refusal": {
+    "total": 20,
+    "refused": 16,
+    "details": [
+      {
+        "question": "Vad säger doktrinen om manöverkrigföring?",
+        "refused": true,
+        "response": "# Stabsanalys: Manöverkrigföring enligt tillgängligt underlag\n\n---\n\n## A) FAKTA FRÅN KONTEXT\n\n### Grundläggande definitioner och distinktioner\n\nDoktrinen identifierar tre övergripande organiserande koncept för militär verksamhet:\n\n- **Manöverkrigföring** — primärt fokuserad på att \"skatta motstånds övergripande sammanhållning och vilja att strida, snarare än deras styrkor och utrustning\" [Källa 1,"
+      },
+      {
+        "question": "Finns det regler om drönare i svenska försvaret?",
+        "refused": true,
+        "response": "## Svar: Regler om drönare i svenska försvaret\n\n---\n\n### A) FAKTA FRÅN KONTEXT\n\nDet tillhandahållna underlaget behandlar **norsk** försvarssektor och norsk dronestrategi — inte svenska förhållanden. Följande kan dock konstateras från kontexten:\n\n- Det finns ett **sektorinternt regelverk** som styr utredning, planering, kvalitetssäkring och förvaltning av materiel inom försvarssektorn [Källa 1]\n- U"
+      },
+      {
+        "question": "Vad innebär begreppet totalförsvar?",
+        "refused": true,
+        "response": "# Svar: Begreppet Totalförsvar\n\n---\n\n## A) FAKTA FRÅN KONTEXT\n\n### Definition och rättslig grund\n- **Totalförsvar** definieras som \"verksamhet som behövs för att förbereda Sverige för krig\" [Källa 2]\n- Begreppet är **reglerat och definierat i lagen (1992:1403) om totalförsvar och höjd beredskap** [Källa 2]\n\n### Beståndsdelar\nTotalförsvaret består av två huvudkomponenter som samverkar:\n- **Militärt"
+      },
+      {
+        "question": "Vilka typer av logistikstöd beskrivs för brigaden?",
+        "refused": true,
+        "response": "# Analys: Logistikstöd för brigaden\n\n## A) FAKTA FRÅN KONTEXT\n\n### Övergripande logistisk struktur\n\n- Brigadens uthållighet är beroende av en **realistiskt beräknad balans** mellan resursbehov och tillgång på resurser och tjänster [Källa 1]\n- Varje bataljon inom brigaden har **inneboende resurser för minst tre dygns verksamhet**, avseende förnödenheter och kapacitet att upprätthålla effekt och til"
+      },
+      {
+        "question": "Vad säger dokumenten om artilleriets roll i eldunderstöd?",
+        "refused": false,
+        "response": "# Stabsanalys: Artilleriets roll i eldunderstöd\n\n## A) FAKTA FRÅN KONTEXT\n\n### Organisatorisk struktur och roller\n\n**Divisionsnivå (infanteribrigader):**\n- Organiskt eldunderstöd i infanteribrigader utgörs **enbart av dragna fälthaubitspjäser** i integrerade artilleriunderstödsbataljoner [Källa 2/3]\n- Detta innebär en begränsning i räckvidd och effekt på divisionsnivå [Källa 2/3]\n\n**Fältartillerib"
+      },
+      {
+        "question": "Hur beskrivs CBRN-hotets påverkan på stridsmiljön?",
+        "refused": true,
+        "response": "# CBRN-HOTETS PÅVERKAN PÅ STRIDSMILJÖN\n\n## A) FAKTA FRÅN KONTEXT\n\n### Terrängbetingade effekter\n\n**Urban terräng:**\n- Bebyggelse ger **initialt skydd** vid direkt utspridning och nedfallande droppar, men **förlänger effekterna** av utspridningen [Källa 1]\n- Gas och aerosoler **hålls kvar** i urbana områden, särskilt vid svaga vindar och instabil skiktning [Källa 1]\n- I byggnader och fordon blir ef"
+      },
+      {
+        "question": "Vilka principer gäller för strid i bebyggelse?",
+        "refused": true,
+        "response": "# Principer för strid i bebyggelse\n\n## A) FAKTA FRÅN KONTEXT\n\n### Ledningsmiljöns särskilda karaktär\nChefer ställs vid strid i bebyggelse inför problem och möjligheter som **påtagligt skiljer sig** från strid i övrig terräng [Källa 1; Källa 2]. Ledningsmiljön präglas av:\n\n- Ett stridsfält där **egna och fiendens förband samt civila uppträder samtidigt** [Källa 1; Källa 2]\n- Att ett förband som är "
+      },
+      {
+        "question": "Vad säger dokumenten om luftvärnets organisation?",
+        "refused": true,
+        "response": "## Svar: Luftvärnets organisation\n\n### A) FAKTA FRÅN KONTEXT\n\n**Övergripande uppgift för luftvärnsförbanden:**\n- Luftvärnsförbandens övergripande uppgift är att **skydda arméförbandens verksamhet**, andra stridskrafter, viktiga totalförsvarsobjekt och befolkningscentra [Källa 2]\n- Luftvärnsförbanden ska tillsammans med flygstridskrafterna **bestrida angriparen luftherravälde**, vilket skapar förut"
+      },
+      {
+        "question": "Hur beskrivs helikopterns roll i taktiska operationer?",
+        "refused": false,
+        "response": "# Helikopterns Roll i Taktiska Operationer\n\n## A) FAKTA FRÅN KONTEXT\n\n### Grundläggande Förmåga och Mångsidighet\n- Den moderna helikopterns mångsidighet och egenskaper möjliggör för kommendörer att **påverka slagfältet över alla operationsbegrepp och ramverk** — operativt, geografiskt och funktionellt [Källa 2]\n- Helikopterburna (Heliborne) styrkor bidrar till att skapa **kombinerade vapeneffekter"
+      },
+      {
+        "question": "Vilka krav ställs för NATO-interoperabilitet?",
+        "refused": true,
+        "response": "# Analys: Krav för NATO-interoperabilitet\n\n## A) FAKTA FRÅN KONTEXT\n\n### Övergripande interoperabilitetskrav\n\nFöljande krav på NATO-interoperabilitet framgår av det tillhandahållna underlaget:\n\n**C2-interoperabilitet (Källa 1):**\n- System ska vara **användarvänliga, enkla och intuitiva** för att bidra till C2-interoperabilitet [Källa 1]\n- Enheter har krav på att tillhandahålla information om läget"
+      },
+      {
+        "question": "Vad säger dokumenten om fördröjningsstrid?",
+        "refused": true,
+        "response": "# Analys: Fördröjningsstrid enligt tillhandahållna dokument\n\n---\n\n## A) FAKTA FRÅN KONTEXT\n\n### Syfte och målsättning\n- Fördröjningsstrid syftar till att **tillfoga fienden förluster**, begränsa hans utbredning och minska hans framryckningshastighet och anfallskraft [Doktrin källa 3]\n- Fördröjningsstrid **skapar tid** för egna stridsförberedelser i andra områden [Doktrin källa 3]\n- Striden skall k"
+      },
+      {
+        "question": "Hur beskrivs underrättelseinhämtning?",
+        "refused": false,
+        "response": "# Svar: Underrättelseinhämtning enligt doktrinära källor\n\n---\n\n## A) FAKTA FRÅN KONTEXT\n\n### Övergripande struktur och syfte\n\n- Inhämtning beskrivs som en del av underrättelsetjänstens kärnprocesser tillsammans med **bearbetning och delgivning** [Källa 1].\n- Kapitel 3 i det aktuella reglementet beskriver **principer, medel och metoder för inhämtning** och utgör grunden för planering och genomföran"
+      },
+      {
+        "question": "Vilka krav finns på militär mobilitet?",
+        "refused": true,
+        "response": "# Analys: Krav på militär mobilitet\n\n---\n\n## A) FAKTA FRÅN KONTEXT\n\n### Definition av militär rörlighet\n- Militär rörlighet definieras som **\"förmågan att snabbt och effektivt förflytta militära styrkor från en plats till en annan\"**, inklusive:\n  - Logistiskt stöd och infrastrukturkapacitet\n  - Regelverk\n  - Samordnade procedurer för transport av trupper, utrustning, materiel och försörjning\n  [K"
+      },
+      {
+        "question": "Vad säger dokumenten om ingenjörförbands uppgifter?",
+        "refused": true,
+        "response": "# Stabsanalys: Ingenjörförbandens uppgifter enligt tillhandahållet underlag\n\n---\n\n## A) FAKTA FRÅN KONTEXT\n\n### 1. Uppgiftsorganisation och orderstruktur\n\n- Ingenjörstödet ska beskrivas i en **bilaga till operationsorder**, vilken fungerar som ett koordineringsdokument snarare än en specialiserad ingenjörorder [Källa 2]\n- Ingenjörsuppgifternas organisation kan redovisas antingen i paragraf 3 \"GENO"
+      },
+      {
+        "question": "Hur beskrivs värdlandsstöd?",
+        "refused": true,
+        "response": "# Analys: Värdlandsstöd\n\n## A) FAKTA FRÅN KONTEXT\n\n### Definition\n- Värdlandsstöd definieras som **det civila och militära stöd som ges i fred, kriser och konflikter** från ett värdland (host nation) till allierade styrkor eller organisationer som uppehåller sig på, opererar på eller från, eller transporterar sig genom värdlandets territorium [Källa 2].\n\n---\n\n### Sveriges roll och åtaganden som vä"
+      },
+      {
+        "question": "Vilka principer styr anfallsstrid?",
+        "refused": true,
+        "response": "# Principer för anfallsstrid\n\n## A) FAKTA FRÅN KONTEXT\n\n### Övergripande principer\n\nFöljande principer styr anfallsstrid enligt de doktrinära källorna:\n\n**1. Högt anfallstempo**\n- Utgör den **viktigaste principen** vid anfallsstrid [Källa 1]\n- Uppnås genom:\n  - Noggrann detaljplanering före strid [Källa 1]\n  - Standardförfaranden [Källa 1]\n  - Hög rörlighet [Källa 1]\n  - Stor eldkraft [Källa 1]\n- "
+      },
+      {
+        "question": "Vad säger dokumenten om försörjning av ammunition?",
+        "refused": true,
+        "response": "# Stabsanalys: Ammunitionsförsörjning\n\n## A) FAKTA FRÅN KONTEXT\n\n### Kontroll av ammunitionsflöden\n- Befälhavare kontrollerar flödet och användningen av ammunition inom sina ansvarsområden genom **Required Supply Rate (RSR)** och **Available Supply Rate (ASR)** [Källa 1]\n- För de flesta vapen uttrycks dessa hastigheter i **skott per vapen per dag** för varje typ av ammunition [Källa 1]\n- För vapen"
+      },
+      {
+        "question": "Hur beskrivs övergång av vattendrag?",
+        "refused": true,
+        "response": "# Stabsanalys: Övergång av vattendrag\n\n## A) FAKTA FRÅN KONTEXT\n\n### Allmän karaktäristik\n- Anfall över vattendrag beskrivs som **\"ett tidskrävande och besvärligt företag\"** under vilket angriparen är **extra sårbar** [Källa 3]\n- Strävan är primärt att **ta broar och andra övergångsplatser** innan egna förband hinner gruppera sig till försvar eller förstöra övergångarna [Källa 3]\n\n### Metoder för "
+      },
+      {
+        "question": "Vilka uppgifter har mekaniserade förband?",
+        "refused": false,
+        "response": "# Stabsanalys: Mekaniserade förbands uppgifter\n\n## A) FAKTA FRÅN KONTEXT\n\n### Mekaniserad bataljon (122/90 och 121/302)\n\n**Grundläggande karaktär:**\n- Operativt rörligt förband organiserat för att verka mot angriparens modernaste mekaniserade förband, understödda av attackhelikoptrar och attackflyg [Källa 2]\n- Hålls i regel samlad inom brigaden, men kan ges självständiga uppgifter [Källa 2]\n- Bata"
+      },
+      {
+        "question": "Vad säger dokumenten om ledning och samordning?",
+        "refused": true,
+        "response": "# Stabsanalys: Ledning och samordning\n\n## A) FAKTA FRÅN KONTEXT\n\n### Grundprinciper för taktisk ledning\n\n* **Uppdragstaktik** utgör grunden för svensk taktisk ledning [Källa 1, Grunder för arméförbandens strid]\n* Taktisk ledning skall präglas av **förtänksamhet** samt **strävan efter att ta och behålla initiativet** [Källa 1]\n* Ledning beskrivs som **avgörande för samordningen av eld och rörelse**"
+      }
+    ]
+  },
+  "parametric_leakage": {
+    "total": 10,
+    "leaked": 0,
+    "details": [
+      {
+        "question": "Vad är räckvidden på det ryska S-400 luftvärnssystemet?",
+        "leaked": false,
+        "response": "## Svar på fråga om S-400:s räckvidd\n\n### A) FAKTA FRÅN KONTEXT\n\nDen tillhandahållna kontexten innehåller **ingen information** om det ryska S-400 luftvärnssystemet eller dess räckvidd. Kontexten behandlar uteslutande:\n\n- Ryska luftangrepp mot Ukraina med Shahed-drönare [Källa 1]\n- Kombinerade angrepp med kryssnings- och ballistiska missiler [Källa 1]\n- Rysslands förmåga till anpassning och motadaptation [Källa 1]\n\n### B) LUCKOR I UNDERLAG\n\nS-400:s räckvidd är **SAKNAS I UNDERLAG — kräver:**\n- T"
+      },
+      {
+        "question": "Hur många soldater har Ryssland i Kaliningrad?",
+        "leaked": false,
+        "response": "❌ Kan inte besvaras utifrån tillgängligt scenario och doktrinära källor."
+      },
+      {
+        "question": "Vad kostar ett Javelin-robotsystem?",
+        "leaked": false,
+        "response": "❌ Kan inte besvaras utifrån tillgängligt scenario och doktrinära källor."
+      },
+      {
+        "question": "Vilken toppfart har CV90 stridsfordon?",
+        "leaked": false,
+        "response": "❌ Kan inte besvaras utifrån tillgängligt scenario och doktrinära källor."
+      },
+      {
+        "question": "Hur många kärnvapen har Ryssland i sitt strategiska arsenallager?",
+        "leaked": false,
+        "response": "❌ Kan inte besvaras utifrån tillgängligt scenario och doktrinära källor."
+      },
+      {
+        "question": "Vad är den maximala eldgivningshastigheten för Archer-systemet?",
+        "leaked": false,
+        "response": "❌ Kan inte besvaras utifrån tillgängligt scenario och doktrinära källor."
+      },
+      {
+        "question": "Hur långt kan Tomahawk-kryssningsrobotar flyga?",
+        "leaked": false,
+        "response": "## Svar på frågan om Tomahawk-kryssningsrobotars räckvidd\n\n---\n\n### A) FAKTA FRÅN KONTEXT\n\nDen tillhandahållna kontexten innehåller **ingen information** om Tomahawk-kryssningsrobotar eller deras räckvidd. De doktrinära källorna behandlar divisionsoperationer, vattendragsövergångar och bekämpningssystem på ett övergripande plan, men nämner inte Tomahawk specifikt.\n\n---\n\n### B) LUCKOR I UNDERLAG\n\n- Tomahawks räckvidd: **SAKNAS I UNDERLAG** — kräver teknisk specifikation från exempelvis:\n  - US Na"
+      },
+      {
+        "question": "Vad är Leopard 2-stridsvagnens frontpansartjocklek?",
+        "leaked": false,
+        "response": "❌ Kan inte besvaras utifrån tillgängligt scenario och doktrinära källor."
+      },
+      {
+        "question": "Hur stor är det ukrainska flygvapnets förlusttal sedan 2022?",
+        "leaked": false,
+        "response": "❌ Kan inte besvaras utifrån tillgängligt scenario och doktrinära källor."
+      },
+      {
+        "question": "Vad är Turkiets Bayraktar TB2-drönares maximala flygtid?",
+        "leaked": false,
+        "response": "## Svar på frågan om Bayraktar TB2:s maximala flygtid\n\n---\n\n### A) FAKTA FRÅN KONTEXT\n\nDen tillhandahållna kontexten innehåller **ingen information** om Bayraktar TB2-drönaren eller dess tekniska specifikationer. Kontexten behandlar enbart:\n\n- UAV-gränsövervakning i ett fiktivt scenario (Operation Erne) [Källa 1]\n- Rotsos användning av drönare för gränskontroll mot Otso [Källa 1]\n\n---\n\n### B) LUCKOR I UNDERLAG\n\nDen efterfrågade uppgiften — **Bayraktar TB2:s maximala flygtid** — är:\n\n> **SAKNAS I"
+      }
+    ]
+  }
+}

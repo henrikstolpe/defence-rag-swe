@@ -1,0 +1,39 @@
+{
+  "old": {
+    "temperature": 1.0,
+    "n_runs": 4,
+    "mean_char_ratio": 0.378,
+    "min_char_ratio": 0.3237,
+    "mean_token_jaccard": 0.3627,
+    "min_token_jaccard": 0.296,
+    "answer_lengths": [
+      3127,
+      2574,
+      2551,
+      2835
+    ],
+    "length_spread": 576,
+    "identical_count": 0,
+    "total_pairs": 6
+  },
+  "new": {
+    "temperature": 0.0,
+    "n_runs": 4,
+    "mean_char_ratio": 0.4985,
+    "min_char_ratio": 0.4447,
+    "mean_token_jaccard": 0.4262,
+    "min_token_jaccard": 0.4086,
+    "answer_lengths": [
+      2881,
+      2544,
+      2917,
+      2840
+    ],
+    "length_spread": 373,
+    "identical_count": 0,
+    "total_pairs": 6
+  },
+  "char_gain": 0.1205,
+  "token_jaccard_gain": 0.0635,
+  "improved": true
+}

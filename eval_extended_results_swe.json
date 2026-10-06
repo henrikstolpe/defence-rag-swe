@@ -1,0 +1,584 @@
+{
+  "answerable": {
+    "total": 20,
+    "correct": 19,
+    "details": [
+      {
+        "question": "Vad är syftet med manöverkrigföring enligt svensk militär doktrin?",
+        "correct": true,
+        "semantic_score": 0.7877107262611389
+      },
+      {
+        "question": "Vilka uppgifter har drönare i det svenska försvaret?",
+        "correct": true,
+        "semantic_score": 0.7844941020011902
+      },
+      {
+        "question": "Vad innebär totalförsvar i svensk kontext?",
+        "correct": true,
+        "semantic_score": 0.8551419973373413
+      },
+      {
+        "question": "Hur organiseras logistik i en brigad?",
+        "correct": true,
+        "semantic_score": 0.7240839600563049
+      },
+      {
+        "question": "Vilken roll har artilleriet i markstrid?",
+        "correct": true,
+        "semantic_score": 0.7804697751998901
+      },
+      {
+        "question": "Vad innebär CBRN-skydd för svenska förband?",
+        "correct": true,
+        "semantic_score": 0.9039624333381653
+      },
+      {
+        "question": "Hur genomförs strid i bebyggelse enligt svensk doktrin?",
+        "correct": true,
+        "semantic_score": 0.6931747198104858
+      },
+      {
+        "question": "Vilken betydelse har luftvärn för markförband?",
+        "correct": true,
+        "semantic_score": 0.7687731981277466
+      },
+      {
+        "question": "Hur bidrar helikoptrar till markoperationer?",
+        "correct": true,
+        "semantic_score": 0.8394086956977844
+      },
+      {
+        "question": "Vad innebär Sveriges medlemskap i NATO för försvarsplaneringen?",
+        "correct": true,
+        "semantic_score": 0.7912281155586243
+      },
+      {
+        "question": "Vilka principer styr militär försörjning i fält?",
+        "correct": true,
+        "semantic_score": 0.7138036489486694
+      },
+      {
+        "question": "Hur genomförs övergång av vattendrag?",
+        "correct": true,
+        "semantic_score": 0.7170761227607727
+      },
+      {
+        "question": "Vad är syftet med fördröjningsstrid?",
+        "correct": true,
+        "semantic_score": 0.8190840482711792
+      },
+      {
+        "question": "Vilken roll har underrättelsetjänst i operationsplanering?",
+        "correct": true,
+        "semantic_score": 0.8096923232078552
+      },
+      {
+        "question": "Hur organiseras det svenska försvarets ledningssystem?",
+        "correct": true,
+        "semantic_score": 0.8132864236831665
+      },
+      {
+        "question": "Vilka krav ställs på militär mobilitet?",
+        "correct": false,
+        "semantic_score": 0.6436747312545776
+      },
+      {
+        "question": "Vad innebär försvarsupphandling enligt svenska regler?",
+        "correct": true,
+        "semantic_score": 0.8469923734664917
+      },
+      {
+        "question": "Hur genomförs anfallsstrid på brigadnivå?",
+        "correct": true,
+        "semantic_score": 0.8375696539878845
+      },
+      {
+        "question": "Vilken funktion har ingenjörförband i försvaret?",
+        "correct": true,
+        "semantic_score": 0.7399755716323853
+      },
+      {
+        "question": "Vad innebär värdlandsstöd vid NATO-operationer?",
+        "correct": true,
+        "semantic_score": 0.7883468270301819
+      }
+    ]
+  },
+  "refusal": {
+    "total": 20,
+    "correct": 17,
+    "details": [
+      {
+        "question": "Hur många stridsfordon har Sverige levererat till Ukraina sedan 2022?",
+        "refused": true
+      },
+      {
+        "question": "Vad kostar JAS Gripen E per styck i 2024 års priser?",
+        "refused": true
+      },
+      {
+        "question": "Vilka förband deltog i den senaste Aurora-övningen?",
+        "refused": true
+      },
+      {
+        "question": "Hur många värnpliktiga rycker in per år i Sverige?",
+        "refused": false
+      },
+      {
+        "question": "Vad är Försvarsmaktens totala budget för 2025?",
+        "refused": true
+      },
+      {
+        "question": "Hur jämför sig svensk artillerieldkraft med Finlands?",
+        "refused": true
+      },
+      {
+        "question": "Vilka skillnader finns mellan svensk och norsk brigadstruktur?",
+        "refused": true
+      },
+      {
+        "question": "Hur skiljer sig svensk CBRN-förmåga från Frankrikes?",
+        "refused": true
+      },
+      {
+        "question": "Vilka likheter finns mellan svensk och brittisk marininfanteridoktrin?",
+        "refused": true
+      },
+      {
+        "question": "Hur jämför sig svenska luftvärnssystem med det amerikanska Patriot-systemet?",
+        "refused": true
+      },
+      {
+        "question": "Hur många Archer-artillerisystem är operativa i dag?",
+        "refused": true
+      },
+      {
+        "question": "Vilken leverantör vann senaste upphandlingen av drönarsystem?",
+        "refused": true
+      },
+      {
+        "question": "Vad är Saabs strategi för nästa generations luftvärnssystem?",
+        "refused": false
+      },
+      {
+        "question": "Hur har Rysslands invasion av Ukraina påverkat svensk militär rekrytering?",
+        "refused": true
+      },
+      {
+        "question": "Vad sa ÖB om Gotlands försvarsförmåga 2024?",
+        "refused": false
+      },
+      {
+        "question": "Hur samverkar svensk underrättelsetjänst med CIA i praktiken?",
+        "refused": true
+      },
+      {
+        "question": "Vad är den genomsnittliga leveranstiden för beställd försvarsmateriel?",
+        "refused": true
+      },
+      {
+        "question": "Hur många helikoptrar har havererat under övningar senaste tio åren?",
+        "refused": true
+      },
+      {
+        "question": "Vad är BAE Systems ståndpunkt om svensk stridsfordonsutveckling?",
+        "refused": true
+      },
+      {
+        "question": "Hur jämför sig Sveriges försvarsutgifter med Polens som andel av BNP?",
+        "refused": true
+      }
+    ]
+  },
+  "false_refusal": {
+    "total": 20,
+    "refused": 0,
+    "details": [
+      {
+        "question": "Vad säger doktrinen om manöverkrigföring?",
+        "refused": false
+      },
+      {
+        "question": "Finns det regler om drönare i svenska försvaret?",
+        "refused": false
+      },
+      {
+        "question": "Vad innebär begreppet totalförsvar?",
+        "refused": false
+      },
+      {
+        "question": "Vilka typer av logistikstöd beskrivs för brigaden?",
+        "refused": false
+      },
+      {
+        "question": "Vad säger dokumenten om artilleriets roll i eldunderstöd?",
+        "refused": false
+      },
+      {
+        "question": "Hur beskrivs CBRN-hotets påverkan på stridsmiljön?",
+        "refused": false
+      },
+      {
+        "question": "Vilka principer gäller för strid i bebyggelse?",
+        "refused": false
+      },
+      {
+        "question": "Vad säger dokumenten om luftvärnets organisation?",
+        "refused": false
+      },
+      {
+        "question": "Hur beskrivs helikopterns roll i taktiska operationer?",
+        "refused": false
+      },
+      {
+        "question": "Vilka krav ställs för NATO-interoperabilitet?",
+        "refused": false
+      },
+      {
+        "question": "Vad säger dokumenten om fördröjningsstrid?",
+        "refused": false
+      },
+      {
+        "question": "Hur beskrivs underrättelseinhämtning?",
+        "refused": false
+      },
+      {
+        "question": "Vilka krav finns på militär mobilitet?",
+        "refused": false
+      },
+      {
+        "question": "Vad säger dokumenten om ingenjörförbands uppgifter?",
+        "refused": false
+      },
+      {
+        "question": "Hur beskrivs värdlandsstöd?",
+        "refused": false
+      },
+      {
+        "question": "Vilka principer styr anfallsstrid?",
+        "refused": false
+      },
+      {
+        "question": "Vad säger dokumenten om försörjning av ammunition?",
+        "refused": false
+      },
+      {
+        "question": "Hur beskrivs övergång av vattendrag?",
+        "refused": false
+      },
+      {
+        "question": "Vilka uppgifter har mekaniserade förband?",
+        "refused": false
+      },
+      {
+        "question": "Vad säger dokumenten om ledning och samordning?",
+        "refused": false
+      }
+    ]
+  },
+  "parametric_leakage": {
+    "total": 10,
+    "leaked": 3,
+    "details": [
+      {
+        "question": "Vad är räckvidden på det ryska S-400 luftvärnssystemet?",
+        "leaked": true
+      },
+      {
+        "question": "Hur många soldater har Ryssland i Kaliningrad?",
+        "leaked": false
+      },
+      {
+        "question": "Vad kostar ett Javelin-robotsystem?",
+        "leaked": false
+      },
+      {
+        "question": "Vilken toppfart har CV90 stridsfordon?",
+        "leaked": false
+      },
+      {
+        "question": "Hur många kärnvapen har Ryssland i sitt strategiska arsenallager?",
+        "leaked": false
+      },
+      {
+        "question": "Vad är den maximala eldgivningshastigheten för Archer-systemet?",
+        "leaked": false
+      },
+      {
+        "question": "Hur långt kan Tomahawk-kryssningsrobotar flyga?",
+        "leaked": true
+      },
+      {
+        "question": "Vad är Leopard 2-stridsvagnens frontpansartjocklek?",
+        "leaked": false
+      },
+      {
+        "question": "Hur stor är det ukrainska flygvapnets förlusttal sedan 2022?",
+        "leaked": false
+      },
+      {
+        "question": "Vad är Turkiets Bayraktar TB2-drönares maximala flygtid?",
+        "leaked": true
+      }
+    ]
+  },
+  "retrieval": {
+    "total": 20,
+    "hit": 19,
+    "details": [
+      {
+        "question": "Vad innebär manöverkrigföring?",
+        "hit": true
+      },
+      {
+        "question": "Vilka uppgifter har drönare?",
+        "hit": true
+      },
+      {
+        "question": "Vad är totalförsvar?",
+        "hit": true
+      },
+      {
+        "question": "Hur organiseras logistik i brigaden?",
+        "hit": true
+      },
+      {
+        "question": "Vilken roll har artilleriet?",
+        "hit": true
+      },
+      {
+        "question": "Vad innebär CBRN-skydd?",
+        "hit": true
+      },
+      {
+        "question": "Hur genomförs strid i bebyggelse?",
+        "hit": true
+      },
+      {
+        "question": "Vilken funktion har luftvärnet?",
+        "hit": true
+      },
+      {
+        "question": "Hur används helikoptrar i markoperationer?",
+        "hit": true
+      },
+      {
+        "question": "Vad innebär NATO-medlemskap för Sverige?",
+        "hit": true
+      },
+      {
+        "question": "Vilka principer styr fördröjningsstrid?",
+        "hit": true
+      },
+      {
+        "question": "Hur genomförs underrättelseinhämtning?",
+        "hit": true
+      },
+      {
+        "question": "Vilka krav ställs på militär mobilitet?",
+        "hit": false
+      },
+      {
+        "question": "Vad gör ingenjörförband?",
+        "hit": true
+      },
+      {
+        "question": "Hur genomförs anfallsstrid?",
+        "hit": true
+      },
+      {
+        "question": "Vad innebär värdlandsstöd?",
+        "hit": true
+      },
+      {
+        "question": "Hur sker försörjning av ammunition?",
+        "hit": true
+      },
+      {
+        "question": "Vilka krav finns på ledningssystem?",
+        "hit": true
+      },
+      {
+        "question": "Hur genomförs övergång av vattendrag?",
+        "hit": true
+      },
+      {
+        "question": "Vad innebär försvarsupphandling?",
+        "hit": true
+      }
+    ]
+  },
+  "precision": {
+    "total": 20,
+    "sum_precision": 5.999999999999999,
+    "details": [
+      {
+        "question": "Vad innebär manöverkrigföring?",
+        "precision": 0.0
+      },
+      {
+        "question": "Vilka uppgifter har drönare?",
+        "precision": 0.3333333333333333
+      },
+      {
+        "question": "Vad är totalförsvar?",
+        "precision": 0.3333333333333333
+      },
+      {
+        "question": "Hur organiseras logistik i brigaden?",
+        "precision": 0.3333333333333333
+      },
+      {
+        "question": "Vilken roll har artilleriet?",
+        "precision": 0.3333333333333333
+      },
+      {
+        "question": "Vad innebär CBRN-skydd?",
+        "precision": 0.0
+      },
+      {
+        "question": "Hur genomförs strid i bebyggelse?",
+        "precision": 0.0
+      },
+      {
+        "question": "Vilken funktion har luftvärnet?",
+        "precision": 0.0
+      },
+      {
+        "question": "Hur används helikoptrar i markoperationer?",
+        "precision": 0.3333333333333333
+      },
+      {
+        "question": "Vad innebär NATO-medlemskap för Sverige?",
+        "precision": 0.0
+      },
+      {
+        "question": "Vilka principer styr fördröjningsstrid?",
+        "precision": 0.6666666666666666
+      },
+      {
+        "question": "Hur genomförs underrättelseinhämtning?",
+        "precision": 0.6666666666666666
+      },
+      {
+        "question": "Vilka krav ställs på militär mobilitet?",
+        "precision": 0.0
+      },
+      {
+        "question": "Vad gör ingenjörförband?",
+        "precision": 0.0
+      },
+      {
+        "question": "Hur genomförs anfallsstrid?",
+        "precision": 0.3333333333333333
+      },
+      {
+        "question": "Vad innebär värdlandsstöd?",
+        "precision": 1.0
+      },
+      {
+        "question": "Hur sker försörjning av ammunition?",
+        "precision": 1.0
+      },
+      {
+        "question": "Vilka krav finns på ledningssystem?",
+        "precision": 0.0
+      },
+      {
+        "question": "Hur genomförs övergång av vattendrag?",
+        "precision": 0.3333333333333333
+      },
+      {
+        "question": "Vad innebär försvarsupphandling?",
+        "precision": 0.3333333333333333
+      }
+    ]
+  },
+  "recall": {
+    "total": 20,
+    "sum_recall": 1.2615598238898167,
+    "details": [
+      {
+        "question": "Vad innebär manöverkrigföring?",
+        "recall": 0.0
+      },
+      {
+        "question": "Vilka uppgifter har drönare?",
+        "recall": 0.02564102564102564
+      },
+      {
+        "question": "Vad är totalförsvar?",
+        "recall": 0.015384615384615385
+      },
+      {
+        "question": "Hur organiseras logistik i brigaden?",
+        "recall": 0.005747126436781609
+      },
+      {
+        "question": "Vilken roll har artilleriet?",
+        "recall": 0.011904761904761904
+      },
+      {
+        "question": "Vad innebär CBRN-skydd?",
+        "recall": 0.0
+      },
+      {
+        "question": "Hur genomförs strid i bebyggelse?",
+        "recall": 1.0
+      },
+      {
+        "question": "Vilken funktion har luftvärnet?",
+        "recall": 0.0
+      },
+      {
+        "question": "Hur används helikoptrar i markoperationer?",
+        "recall": 0.005681818181818182
+      },
+      {
+        "question": "Vad innebär NATO-medlemskap för Sverige?",
+        "recall": 0.0
+      },
+      {
+        "question": "Vilka principer styr fördröjningsstrid?",
+        "recall": 0.022988505747126436
+      },
+      {
+        "question": "Hur genomförs underrättelseinhämtning?",
+        "recall": 0.012195121951219513
+      },
+      {
+        "question": "Vilka krav ställs på militär mobilitet?",
+        "recall": 0.0
+      },
+      {
+        "question": "Vad gör ingenjörförband?",
+        "recall": 0.0
+      },
+      {
+        "question": "Hur genomförs anfallsstrid?",
+        "recall": 0.019230769230769232
+      },
+      {
+        "question": "Vad innebär värdlandsstöd?",
+        "recall": 0.0625
+      },
+      {
+        "question": "Hur sker försörjning av ammunition?",
+        "recall": 0.02054794520547945
+      },
+      {
+        "question": "Vilka krav finns på ledningssystem?",
+        "recall": 0.0
+      },
+      {
+        "question": "Hur genomförs övergång av vattendrag?",
+        "recall": 0.038461538461538464
+      },
+      {
+        "question": "Vad innebär försvarsupphandling?",
+        "recall": 0.02127659574468085
+      }
+    ]
+  }
+}
